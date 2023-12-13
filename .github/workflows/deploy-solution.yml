@@ -2,7 +2,7 @@ name: Deploy ALMWorkshop
 
 on:
   workflow_run:
-    workflows: ['Pack ALMWorkshop']
+    workflows: ["Pack ALMWorkshop"]
     branches: [main]
     types:
       - completed
