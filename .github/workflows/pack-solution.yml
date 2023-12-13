@@ -1,4 +1,4 @@
-name: Pack ALMWorkshop
+name: Pack
 
 on:
   push:
